@@ -6,3 +6,6 @@ Devido a Semana Nacional do Meio Ambiente, comemorado na primeira semana de junh
 ## Tecnologias
  * node js
  * react js
+
+## Banco de dados
+ * SQL - SQLite
